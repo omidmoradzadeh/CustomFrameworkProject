@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "customframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omidmoradzadeh/CustomFramework.git",
+      "state" : {
+        "revision" : "ed4083df346a895eabb854e144ad7ff05ca3cd1e",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
